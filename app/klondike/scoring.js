@@ -37,6 +37,8 @@ function scoreForMoving(source, destination) {
     }
 }
 
+console.log('::: ENV_IS ; ', ENV_IS);
+
 if (module.hot) {
 
     module.hot.accept(console.log.bind(console));
