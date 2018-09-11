@@ -1,7 +1,7 @@
 body {
     padding-left: 50px;
     padding-right: 50px;
-    background: #B1CB9B;
+    background: transparent;
 }
 
 div.pile,
@@ -13,7 +13,7 @@ div.no-pile {
 }
 
 div.pile {
-    background-color: #CCE1A9;
+    background-color: transparent;
 }
 
 .turned-down-card {
